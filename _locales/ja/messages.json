@@ -1,0 +1,4 @@
+{
+  "ext_name": { "message": "Gmailの削除ボタンを非表示" },
+  "ext_desc": { "message": "Gmailで削除ボタンを非表示にします。ショートカットキーは動作します。" }
+}
